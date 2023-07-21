@@ -1,1 +1,3 @@
 #Git COnflict
+
+Lorem Ipsum
